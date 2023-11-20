@@ -1,5 +1,5 @@
 # TwitterSentimentAnalysis
-Word2Vec, Tweepy practice
+From Petroleum to Electric: A Sentiment Analysis Study on Electric Vehicles in Twitter Data
 
 **Poster:**
 ---
